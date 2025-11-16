@@ -1,1 +1,1 @@
-
+Learnwise is a full-stack web application for selling online courses. It provides a modern, responsive, and interactive user experience for students and instructors, allowing easy course browsing, enrollment, and management.
